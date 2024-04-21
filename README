@@ -1,2 +1,11 @@
-תרגיל בית 2 במעבדה לניתוח והצגת נתונים.
-המשימה: לעבד את סט הנתונים ולהעשיר אותו בכדי לשפר מודל מוכן.
+The task:
+
+Improving the performance of a prepared machine learning model solely by operations on the data set itself, such as: 
+correcting incorrect labeling, adding and creating additional examples for training, correct division for training and validation, and more.
+
+The data set:
+Images of handwritten Roman numerals, where the labeling of each image is the numeral itself.
+
+The DATA folder contains both VAL and TRAIN so that the TRAIN folder contains all the examples and the VAL folder contains only one example from each class.
+
+Limitation: Validation training folders will have a maximum of 10,000 samples.
